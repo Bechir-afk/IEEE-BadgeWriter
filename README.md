@@ -1,4 +1,4 @@
-# IEEEBadgeWriter
+# IEEE-BadgeWriter
 
 ![Preview](preview.jpg)
 
