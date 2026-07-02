@@ -2,6 +2,8 @@
 
 > A Windows desktop application that **automates badge generation** by writing names (or any text) onto a template image — built for IEEE events and similar use cases.
 
+> 🍴 This is a fork of the original project by [XTigerHyperX](https://github.com/XTigerHyperX/IEEEBadgeWriter-Public).
+
 ---
 
 ## ✨ Features
@@ -125,10 +127,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 👤 Author
+## 👤 Credits
 
-**Bechir Ben Rabia**  
-[GitHub @Bechir-afk](https://github.com/Bechir-afk)
+**Original Author:** [XTigerHyperX](https://github.com/XTigerHyperX) — [Original Repository](https://github.com/XTigerHyperX/IEEEBadgeWriter-Public)  
+**Fork Maintainer:** [Bechir Ben Rabia](https://github.com/Bechir-afk)
 
 ---
 
